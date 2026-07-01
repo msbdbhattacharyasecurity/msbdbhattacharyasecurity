@@ -28,7 +28,7 @@ align-items:center;
 padding:140px 0 80px;
 background:
 linear-gradient(90deg,rgba(13,53,86,.88) 0%,rgba(13,53,86,.72) 40%,rgba(45,107,69,.25) 100%),
-url("images/defence-security-bg.jpg") center/cover no-repeat;
+url("Images/defence-security-bg.jpg") center/cover no-repeat;
 }
 .hero-content{max-width:700px;color:#fff}
 .hero-tag{color:#d8e7d8;text-transform:uppercase;font-size:13px;letter-spacing:2px;border-left:4px solid var(--gold);padding-left:12px;margin-bottom:20px}
